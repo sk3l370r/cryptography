@@ -16,9 +16,9 @@ This repository contains a series of Jupyter Notebooks focused on cryptography t
 
 To clone this repository, execute the following command:
 
-\`\`\`bash
+
 git clone https://github.com/sk3l370r/cryptography.git
-\`\`\`
+
 
 ## Requirements
 
@@ -34,17 +34,17 @@ To install SageMath, refer to the official [installation guide](https://doc.sage
 
 To install Jupyter Notebook, execute the following command:
 
-\`\`\`bash
+
 pip install notebook
-\`\`\`
+
 
 ## Usage
 
 1. Start the Jupyter Notebook server:
 
-    \`\`\`bash
+    
     jupyter-notebook
-    \`\`\`
+    
 
 2. In the Jupyter Notebook interface, navigate to the directory where you've cloned the repository.
 
@@ -52,7 +52,7 @@ pip install notebook
 
 4. Set the kernel to SageMath:
 
-    - Navigate to \`Kernel\` -> \`Change kernel\` -> \`SageMath\`.
+    - Navigate to Kernel -> Change kernel -> SageMath.
 
 5. Execute the notebook cells.
 
@@ -61,13 +61,13 @@ pip install notebook
 To contribute to this repository, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature_branch\`).
-3. Make changes and commit (\`git commit -m 'Add some feature'\`).
-4. Push to the branch (\`git push origin feature_branch\`).
+2. Create a new branch (git checkout -b feature_branch).
+3. Make changes and commit (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature_branch).
 5. Create a new pull request.
 
 ## License
 
-This project is licensed under the MIT License. Refer to the \`LICENSE.md\` file for details.
+This project is licensed under the MIT License. 
 
 For further queries, please open an issue or contact the repository owner.
