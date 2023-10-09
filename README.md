@@ -6,19 +6,24 @@ This repository contains a series of Jupyter Notebooks focused on cryptography t
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Requirements](#requirements)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+- [Cryptography](#cryptography)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Requirements](#requirements)
+    - [Installing SageMath](#installing-sagemath)
+    - [Installing Jupyter Notebook](#installing-jupyter-notebook)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Installation
 
 To clone this repository, execute the following command:
 
-
+```bash
 git clone https://github.com/sk3l370r/cryptography.git
-
+```
 
 ## Requirements
 
@@ -34,17 +39,17 @@ To install SageMath, refer to the official [installation guide](https://doc.sage
 
 To install Jupyter Notebook, execute the following command:
 
-
+```bash
 pip install notebook
-
+```
 
 ## Usage
 
 1. Start the Jupyter Notebook server:
 
-    
-    jupyter-notebook
-    
+```bash    
+jupyter-notebook
+```
 
 2. In the Jupyter Notebook interface, navigate to the directory where you've cloned the repository.
 
