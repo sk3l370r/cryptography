@@ -17,7 +17,7 @@ This repository contains a series of Jupyter Notebooks focused on cryptography t
 To clone this repository, execute the following command:
 
 \`\`\`bash
-git clone https://github.com/your_username/repository_name.git
+git clone https://github.com/sk3l370r/cryptography.git
 \`\`\`
 
 ## Requirements
