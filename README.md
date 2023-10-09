@@ -73,6 +73,6 @@ To contribute to this repository, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License. Refer to the \`LICENSE.md\` file for details.
 
 For further queries, please open an issue or contact the repository owner.
